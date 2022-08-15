@@ -27,4 +27,4 @@ window.onscroll = () =>{
     cartItem.classList.remove('active');
 }
 
-//start cart interactions by me
+//start user interactions
